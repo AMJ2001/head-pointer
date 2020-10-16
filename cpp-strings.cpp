@@ -6,7 +6,7 @@ int main( int argc, char ** argv ) {
 	ios_base::sync_with_stdio(false);
         cin.tie(NULL);
 	
-	string cppstring = "This is a C++ string.";
+	string cppstring = "This is a C++ string.";  
 
 	cout << cppstring << endl;
 
